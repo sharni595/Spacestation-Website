@@ -1,0 +1,700 @@
+[
+  {
+    "name": "Oura",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef2ff0758bab75d91cf00_693be394ae4fd36907cc4547_624da31c6297db095e62c3c1_OuraFinalBlack.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://ouraring.com/"
+  },
+  {
+    "name": "Olipop",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f971422d7d286c1402_624cb74c9d57e8a4b28357ca_OlipopColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://drinkolipop.com/"
+  },
+  {
+    "name": "LMNT",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef3cd8c27779a17cdc4cd_693be392c84dbba681d40478_624cc5362e6b3b783cdad1b9_ElemLab.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://drinklmnt.com/"
+  },
+  {
+    "name": "MrBeast",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc574dc51ce6d65c269f8_MrBeast-Logo-1.png",
+    "type": "SPV",
+    "industry": "Media",
+    "website": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"
+  },
+  {
+    "name": "Magic Spoon",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef3f347400060e79ef8fd_693be4f73394966d4e0c726e_624da2de1d409c77ecf27b41_MagicSpoonColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://magicspoon.com/"
+  },
+  {
+    "name": "Oats Overnight",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be394b71d98fb2b8bb142_624cbcc1fc24ae82e60ca4c9_OatsOvernightBlack.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.oatsovernight.com/"
+  },
+  {
+    "name": "Graza",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc62b5764a5aa848f615a_Graza%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.graza.co/"
+  },
+  {
+    "name": "Epic Games",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc7c5ca96af1ff833ee82_Epic_Games_logo%20trans.webp",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://epicgames.com"
+  },
+  {
+    "name": "Nothing",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef342e5711097b6536144_693be393b45d7706255da5fa_624cbc129df15ee5b5152d56_Nothing.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://nothing.tech/"
+  },
+  {
+    "name": "Freaks of Nature",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc6c3ab05a6f96518598d_FoN%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://freaksofnature.com"
+  },
+  {
+    "name": "Kraken",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f6a812933b3860553b_624dc4c17efa47dbdd95e726_KrackenColor.png",
+    "type": "SPV",
+    "industry": "Web3",
+    "website": "https://www.kraken.com/"
+  },
+  {
+    "name": "Hormbles Chormbles",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cb8bd665b0005201928b92_Hormbles%20Chormbles%20logo%202.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://hormbles.com/"
+  },
+  {
+    "name": "Momentous",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc5f0fd2f0c647c356aff_Momentous.webp",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.livemomentous.com/"
+  },
+  {
+    "name": "Painterland Sisters",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc94553a466c1de1ef8a6_painterland%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.painterlandsisters.com/"
+  },
+  {
+    "name": "Gardencup",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc8b1b356baf93f70d1ff_gardencup%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://gardencup.com/"
+  },
+  {
+    "name": "Pura",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef2a1ac7a076018bab5dd_693be4fb45c0a13e9485d2e1_624dcb98b1159e6906015a05_PuraColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.trypura.com/"
+  },
+  {
+    "name": "Slate Milk",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc67b16a3ad8f44b9c942_slate%20milk%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://slatemilk.com/"
+  },
+  {
+    "name": "Ærthlings",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcc1e0a2f3449a71d5fc6_Aerthlings%20logo%20trans.webp",
+    "type": "SPV & Fund",
+    "industry": "Other",
+    "website": "https://aerthlings.com/us/en/coming-soon"
+  },
+  {
+    "name": "Crew/Willow",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcbed3e6b7252b64e9346_Crew%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://www.trycrew.com/"
+  },
+  {
+    "name": "Plan A",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc9b9c46593f455d22ef2_planatm%2Bcopy.webp",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.planaformen.com/"
+  },
+  {
+    "name": "Rorra",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcab4319d86ab798facbe_Rorra%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://rorra.com/"
+  },
+  {
+    "name": "Sundays for Dogs",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fd65e52957cb1bfb85_635a9a17e589b98f7d1841c5_SundaysColor.jpeg",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://sundaysfordogs.com/"
+  },
+  {
+    "name": "Tuff Pops",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cb8c19fcbef5096b2fb8ec_tuff_pops_logo2.png",
+    "type": "Fund",
+    "industry": "CPG",
+    "website": "https://tuffpops.com/"
+  },
+  {
+    "name": "Phi",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc9a1fe6b675053aeb343_Phi%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.phi.health/"
+  },
+  {
+    "name": "SpaceX",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fcaa17242002d3d94b_682623c3b81dcb7f7173cfc2_SpaceX%2520Color%2520Exited.jpeg",
+    "type": "SPV",
+    "industry": "Transportation",
+    "website": "https://www.spacex.com/"
+  },
+  {
+    "name": "Belgian Boys",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f1a812933b3860539c_624cbd0fd8a66c2aedcb0d92_BelgianBoysColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.belgianboys.com/"
+  },
+  {
+    "name": "Curie",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f491072399441614de_624dcebf85eb5f274113164b_CurieColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://curiebod.com/"
+  },
+  {
+    "name": "Hyperice",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fca34261f981a2c7b0091_hyperice%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://hyperice.com/"
+  },
+  {
+    "name": "Levels Health",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f7323c1052e33102e7_624dcd9ea63c9f61bbc26377_levelscolor.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.levelshealth.com/"
+  },
+  {
+    "name": "Nooshee",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcc398d2906e9b1fd63ef_nooshee%20logo%20trans.webp",
+    "type": "SPV & Fund",
+    "industry": "Health & Wellness"
+  },
+  {
+    "name": "NODAL Power",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f8049d29dd84e93524_63e14897f7ff266b1cfdac04_NODAL%2520color.jpeg",
+    "type": "SPV",
+    "industry": "Energy",
+    "website": "https://www.nodalpower.com/"
+  },
+  {
+    "name": "Plunge",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc7df377503134ae09b7e_plunge%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://plunge.com/"
+  },
+  {
+    "name": "Stand+",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcb52fa03f1839ac14ae8_Stand%2B%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.standshoes.com/"
+  },
+  {
+    "name": "Stix Golf",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fd5ddfb6c57bfa994c_63e13fe991775e74907c1adc_Stix%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Sports",
+    "website": "https://stix.golf/"
+  },
+  {
+    "name": "Veracity",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcc06261f981a2c7b7a6d_Veracity%20logo%20trans.webp",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://veracityselfcare.com/en"
+  },
+  {
+    "name": "Buddy",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f2bcb7ebfcde6227f9_648b679e907407a7610f508e_Buddy%2520color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.buddyhealth.com/"
+  },
+  {
+    "name": "Food Nerd",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f4fb99dbe8b7187371_65b7f42937ee038f91c00993_FoodNerd%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.foodnerdinc.com/"
+  },
+  {
+    "name": "OWM",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f9f69043311af94e60_66c3a39e7f1e69ab75836119_OWM%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://owm.ai/"
+  },
+  {
+    "name": "Sweater VC",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fe6ba0f2a7728e3cd1_624cbe8afc24ae07770ca963_SweaterColor.png",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://www.sweaterventures.com/"
+  },
+  {
+    "name": "Telly",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc96e458d8f0b3c8e0232_telly%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.telly.com/"
+  },
+  {
+    "name": "Tempo/Crux",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fefc9787af4bcbb62e_641354590ecdc2c27ad76fdf_Tempo%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.tempoplatform.com/"
+  },
+  {
+    "name": "Canopy",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38f2ae8a050a78a7f76_624cbe68d2de1080a123835f_Canopy.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://getcanopy.co/"
+  },
+  {
+    "name": "Catch",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fc9cf9b3161350cb62a17_catch%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.catchbio.com/"
+  },
+  {
+    "name": "Climatic",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f28d16629e34759155_67f8320894fe7afc3df36662_Climatic%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.climatichealth.com/"
+  },
+  {
+    "name": "Heights (Braincare Limited)",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f610eb28d0f06f4f65_624dce3176b09d5351e837a1_Heights.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.yourheights.com/"
+  },
+  {
+    "name": "Jupiter",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be3924fbbf7af88a2b122_64370608b150a2a2ab5e3c79_Jupiter%2520Black%2520%2526%2520White.jpeg",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://hellojupiter.com/"
+  },
+  {
+    "name": "Needed",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f9028faa453d27bddf_624dcbfa12169e412f6aedc6_NeededColor.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://thisisneeded.com/"
+  },
+  {
+    "name": "Beem",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f06b2ba2d0008b917a_64c2f0d9096c482c1b7b811d_Beem%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://trybeem.com/"
+  },
+  {
+    "name": "Ozlo",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be3947253263885c1e51e_666c73305c0b0f7310efabd0_Ozlo.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://ozlosleep.com/"
+  },
+  {
+    "name": "SkillStruck",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fcf2dfe98fc875c978_624cc318c75866669d1f2cb1_SkillStruckColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.skillstruck.com/"
+  },
+  {
+    "name": "Béa Fertility",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f0fb59a9c579f168d3_673627f385e902c33e8fa7b5_Bea%2520Fertility%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://beafertility.com/"
+  },
+  {
+    "name": "Siena",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/696fcb296902cc02453f9cdf_Siena%20logo%20trans.png",
+    "type": "SPV",
+    "industry": "AI",
+    "website": "https://www.siena.cx/"
+  },
+  {
+    "name": "Koia",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cef38e6175b4d9cf02777b_693be4f7e6fab0a6a3460715_624cbcb045e0c9b89d003663_KoiaColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://drinkkoia.com/"
+  },
+  {
+    "name": "Sloomoo",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fc5ce53ce15ca02a86_666c7509ebd8e9de9ee1fe93_Sloomoo%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Other",
+    "website": "https://sloomooinstitute.com/"
+  },
+  {
+    "name": "Strike",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be3972708606a139e1624_624f070aa86d327a994b6564_Strike.png",
+    "type": "SPV",
+    "industry": "Web3",
+    "website": "https://strike.me/en"
+  },
+  {
+    "name": "Alysio",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4efbf6fe5dab281dee5_6614443a74e5d0b8caa5835c_Alysio%2520in%2520Black%2520%2526%2520White.jpeg",
+    "type": "SPV",
+    "industry": "AI",
+    "website": "https://www.alysio.ai/"
+  },
+  {
+    "name": "Popup Grocer",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fb06bdc55c11220aef_624da505bb2bf425a7bb1233_PopupGrocerColor.png",
+    "type": "SPV",
+    "industry": "Marketplaces",
+    "website": "https://www.popupgrocer.co/"
+  },
+  {
+    "name": "Sincerely Yours",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/69cb8bc4127c524148ca1dd2_Sincerely%20Yours%20logo1.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://www.syskincare.com/"
+  },
+  {
+    "name": "Freestyle",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f58038cf8ea15f30d9_624f14cf061d194968ccfaa3_Freestyle-Color.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.freestyle.world/"
+  },
+  {
+    "name": "Soar",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fd53b04ba25c95d69a_624cc34356c29506de2dae50_SoarColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.soaraudio.com/"
+  },
+  {
+    "name": "Storybook",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fe6601297424fdb924_624cc59a342997483c3359c8_StoryBookColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://storybook-app.com/en/"
+  },
+  {
+    "name": "Versus",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59c628f94ec28f43ae2_6650ef0d33701e87f6ea9b37_Versus%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.versusgame.com/"
+  },
+  {
+    "name": "Enerflo",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f4820b65f479d2d0be_624cc23d0a8294ee2b5a28fb_Enerflo.png",
+    "type": "SPV",
+    "industry": "Energy",
+    "website": "https://enerflo.com/"
+  },
+  {
+    "name": "Enhanced AI",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f35fa4f24ab940e83d_663d2b88412818d661837524_Enhanced%2520AI%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "AI",
+    "website": "https://enhanced.ai/"
+  },
+  {
+    "name": "Evercast",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be390e8c83ec451ddce86_624da76abb2bf4107dbb20dc_EvercastBlack.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.evercast.us/"
+  },
+  {
+    "name": "Medallion",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be393f6e99e6cd742661c_624dcd1897d0f3cb15ef8c19_Medallion.png",
+    "type": "SPV",
+    "industry": "Web3",
+    "website": "https://www.medallion.fm/"
+  },
+  {
+    "name": "Now Media/NFTNow",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f8f90a039bd5d7345c_652852fe41bcc438d85a2e30_Now%2520Media%2520Black%2520%2526%2520White.jpeg",
+    "type": "SPV",
+    "industry": "Web3",
+    "website": "https://nftnow.com/"
+  },
+  {
+    "name": "OpenX",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f8aa17242002d3d870_6261979a1a0d6173f66b5c13_OpenX2.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.openxeducation.com/"
+  },
+  {
+    "name": "Infinite Rabbit Holes aka. Black Box",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be392bd84106a33d46223_6261bfcc43afc9b4f0b28f4b_InfiniteRabbitBlack.jpeg",
+    "type": "SPV",
+    "industry": "Other",
+    "website": "https://shop.infiniterabbitholes.com/"
+  },
+  {
+    "name": "Iconic Moments",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be391952694757c366775_634d6c28679c9a9ba93d3012_IconicMoments.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.iconicmoments.co/"
+  },
+  {
+    "name": "Seis",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fc68df33ea36043c0b_624dca8d6b63d15b3336dfb8_SeisColor.png",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://www.seis.com/"
+  },
+  {
+    "name": "Veeper",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be3970d9c8bc0a331384d_634d6b6f22ad6a4b55008bbc_Veeper.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.veeper.com/"
+  },
+  {
+    "name": "Angiex",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f0a0a4e2433196b10f_624cc5f9cc9d3c6b7d5839a5_Angiex.png",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://angiex.com/"
+  },
+  {
+    "name": "Aura Bora",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38e2708606a139e13f7_624cc1355be4f19353b2e05d_aurabora.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://aurabora.com/"
+  },
+  {
+    "name": "BerenThera",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38ff93ae7d022e841a0_624cc6161adaf699e8c99b53_Beren.png",
+    "type": "SPV",
+    "industry": "Health & Wellness"
+  },
+  {
+    "name": "Tarform",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fe46c18cc8ebc7860f_624dc9dfd38f2d6d2af6e8fd_TaraformColor.png",
+    "type": "SPV",
+    "industry": "Transportation",
+    "website": "https://www.tarform.com/"
+  },
+  {
+    "name": "Giggster",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f4253add2cbe7361d4_62619657dc619c7676bcddc4_GiggsterColor1.jpeg",
+    "type": "SPV",
+    "industry": "Marketplaces",
+    "website": "https://giggster.com/"
+  },
+  {
+    "name": "Unicorn/TOP",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59bf3bcbe900bad603c_65a81fdc0a1e0f6c41eaca5e_Unicorn%2520a%2520TOP%2520Product%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.everystall.com/"
+  },
+  {
+    "name": "Holdings",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f554885d3f688eb19a_637d3786e28bf8474cbc924d_Holdings%2520B%2526W.jpeg",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://www.holdings.io/"
+  },
+  {
+    "name": "Malomo",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f8a52903a0c9d6086e_624cc08d720567370fea7d68_MalomoColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://gomalomo.com/"
+  },
+  {
+    "name": "Wave Neuro",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59c441b45ae5b640ca8_6261982840e0c71f757f3e8d_WaveColor1.jpeg",
+    "type": "SPV",
+    "industry": "Health & Wellness",
+    "website": "https://waveneuro.com/"
+  },
+  {
+    "name": "Lovage Labs",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f631b164668889eccc_63e40b8f39e719390c6d7373_Lovage%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.getlovage.com/"
+  },
+  {
+    "name": "Resale/Steals.com",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fa34b916dccf6819ac_63ea77320f8211961c730927_Resale%2520in%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Marketplaces",
+    "website": "https://steals.com/"
+  },
+  {
+    "name": "Rind",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fc797828bfd76fcf08_624cbebfd560279d7ce5db8c_RindColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.rindsnacks.com/"
+  },
+  {
+    "name": "Zencastr",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59c88c2df77ea6d440c_624cc2a2cd6e589b473b3685_Zencaster.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://zencastr.com/"
+  },
+  {
+    "name": "Gemist",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f542f1b713b43f15d9_624da44649fe5105daff9038_Gcolor.png",
+    "type": "SPV",
+    "industry": "Other",
+    "website": "https://gemist.co/"
+  },
+  {
+    "name": "Volcanic",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59d27b0da9ed4039660_624cc5ac03cf91406ec55980_Volcanic.png",
+    "type": "SPV",
+    "industry": "Other",
+    "website": "https://volcanicretail.com/"
+  },
+  {
+    "name": "Altro/Perch",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4efb6638c25f7a2865f_6261956fdc619c1915bcd843_AltroColor.jpeg",
+    "type": "SPV",
+    "industry": "Fintech",
+    "website": "https://www.altro.io/"
+  },
+  {
+    "name": "EcoCart",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f37e088ce5566f7401_624cc201d10565cb2918eff0_EcoCartColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://ecocart.io/"
+  },
+  {
+    "name": "Particl/Luz",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fa3c469202a0df14db_63e40542c02e9aa1e248f1ac_Particl%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.particl.com/"
+  },
+  {
+    "name": "Bucket List Studios",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f232d9329a386e64e0_624cc677baaad248c22e2493_Bucketlist.png",
+    "type": "SPV",
+    "industry": "Media",
+    "website": "https://thebucketliststudios.com/"
+  },
+  {
+    "name": "Guestio",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f6f90a039bd5d73375_624cc253e102251eaad698c4_GuestioColor.png",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://guestio.com/"
+  },
+  {
+    "name": "Paintbrush",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be394b9eda95b15e66f97_6424948fd938b3e554c56f8a_Paintbrush%2520Black%2520%2526%2520White.jpeg",
+    "type": "SPV",
+    "industry": "AI",
+    "website": "https://www.getpaintbrush.com/"
+  },
+  {
+    "name": "Behave",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4f160d35ff5066f1a18_624cc1d9db8b79e6c525fdca_BehaveColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://www.eatbehave.com/"
+  },
+  {
+    "name": "Sound",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4fdaf9a051288f64779_627ab2b05cf427bc8c1f5a94_SoundColor.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://drinksound.com/"
+  },
+  {
+    "name": "Xverse",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be59c5cbb6b72baa3f661_64a836fd65e2463e454f325a_Xverse%2520Color.jpeg",
+    "type": "SPV",
+    "industry": "Web3",
+    "website": "https://www.xverse.app/"
+  },
+  {
+    "name": "Atolla",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38e573da5dd953b7753_636535411f56ba4feed99372_AtollaExited.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://atolla.com/thank-you"
+  },
+  {
+    "name": "Awsm",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be4efbcf859bf59322f06_657a0401acced4be78d40488_Awsm%2520in%2520Black%2520%2526%2520White.jpeg",
+    "type": "SPV",
+    "industry": "Technology",
+    "website": "https://www.awsm.com/"
+  },
+  {
+    "name": "Ayoba",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38eaf8b17bf5a39eeaa_624cc2c9feeba2d61d75f793_Ayoba.png",
+    "type": "SPV",
+    "industry": "CPG",
+    "website": "https://ayobafoods.com/"
+  },
+  {
+    "name": "Beyond",
+    "logo": "https://cdn.prod.website-files.com/690d08f7b1ee1eb9477ea2a6/693be38f952694757c3666e9_624cc1e580eca165bdcf2c4c_Beyond.png",
+    "type": "SPV",
+    "industry": "Transportation",
+    "website": "https://ridebeyond.com/"
+  }
+]
